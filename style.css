@@ -1,4 +1,12 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* common */
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: F3F1FF;
+}
 /* top player style */
+
 .players{
     display:grid;
     grid-template-columns: repeat(3,1fr);
